@@ -16,11 +16,17 @@
     - Section2/7.py
 - [x] Coding Exercise 1: Variables
 - [x] String formatting in Python
-- [ ] Getting user input
-- [ ] Writing our first Python appp
-- [ ] Lists, tuples, and sets
-- [ ] Advanced set operations
-- [ ] Coding Exercise 2: Lists, tuples, and sets
+    - Section2/9.py
+- [x] Getting user input
+    - Section2/10.py
+- [x] Writing our first Python app
+    - Section2/11.py
+- [x] Lists, tuples, and sets
+    - Section2/12.py
+- [x] Advanced set operations
+    - Section2/13.py
+- [x] Coding Exercise 2: Lists, tuples, and sets
+- [x] Solution to coding exercise: Lists, tuples, and sets
 - [ ] Booleans in Python
 - [ ] If staments
 - [ ] The 'in' keyword in Python
