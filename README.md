@@ -23,5 +23,48 @@
 - [ ] Coding Exercise 2: Lists, tuples, and sets
 - [ ] Booleans in Python
 - [ ] If staments
+- [ ] The 'in' keyword in Python
+- [ ] If statements with the 'in' keyword
+- [ ] Loops in Python
+- [ ] Coding Exercise 3: Flow control - loops and ifs
+- [ ] Solutions to coding exercise: Flow control
+- [ ] List comprehensions in Python
+- [ ] Dictionaries
+- [ ] Destructuring variables
+- [ ] Functions in Python
+- [ ] Functions arguments and parameters
+- [ ] Default parameter values
+- [ ] Functions returning values
+- [ ] Coding Exercise 4: Functions
+- [ ] Solution to coding exercise: Functions
+- [ ] Lambda functions in Pythons
+- [ ] Dictionary comprehensions
+- [ ] Coding Exercise 5: Dictionaries and students
+- [ ] Solution to coding exercise: Dictionaries
+- [ ] Unpacking arguments
+- [ ] Object-Oriented Programming in Python
+- [ ] Magic methods: __str__ and __repr__
+- [ ] Coding Exercise 6: Classes and objects
+- [ ] Solutions to coding exercise: Classes and objects
+- [ ] @classmethod and @staticmethod
+- [ ] Coding Exercise 7: @classmethod and @staticmethod
+- [ ] Solution to coding exercise: @classmethod and @staticmethod
+- [ ] Class inheritance
+- [ ] Class composition
+- [ ] Type hinting in Python 3.5+
+- [ ] Imports in Python
+- [ ] Relative imports in Python
+- [ ] Errors in Python
+- [ ] Custom error classes
+- [ ] First-class functions
+- [ ] Simple decorators in Python
+- [ ] The 'at' syntax for decorators
+- [ ] Decorating functions with parameters
+- [ ] Decorators with parameters
+- [ ] Mutability in Python
+- [ ] Mutable default parameters (and why they're a bad idea)
+- [ ] Conslusion of this section
+
+### Section 3: Your first REST API
 
 Continue...
