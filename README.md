@@ -27,14 +27,20 @@
     - Section2/13.py
 - [x] Coding Exercise 2: Lists, tuples, and sets
 - [x] Solution to coding exercise: Lists, tuples, and sets
-- [ ] Booleans in Python
-- [ ] If staments
-- [ ] The 'in' keyword in Python
-- [ ] If statements with the 'in' keyword
-- [ ] Loops in Python
-- [ ] Coding Exercise 3: Flow control - loops and ifs
-- [ ] Solutions to coding exercise: Flow control
-- [ ] List comprehensions in Python
+- [x] Booleans in Python
+    - Section2/15.py
+- [x] If staments
+    - Section2/16.py
+- [x] The 'in' keyword in Python
+    - Section2/17.py
+- [x] If statements with the 'in' keyword
+    - Section2/18.py
+- [x] Loops in Python
+    - Section2/19.py
+- [x] Coding Exercise 3: Flow control - loops and ifs
+- [x] Solutions to coding exercise: Flow control
+- [x] List comprehensions in Python
+    - Section2/21.py
 - [ ] Dictionaries
 - [ ] Destructuring variables
 - [ ] Functions in Python
