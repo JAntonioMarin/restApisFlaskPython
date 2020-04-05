@@ -41,8 +41,10 @@
 - [x] Solutions to coding exercise: Flow control
 - [x] List comprehensions in Python
     - Section2/21.py
-- [ ] Dictionaries
-- [ ] Destructuring variables
+- [x] Dictionaries
+    - Section2/22.py
+- [x] Destructuring variables
+    - Section2/23.py
 - [ ] Functions in Python
 - [ ] Functions arguments and parameters
 - [ ] Default parameter values
