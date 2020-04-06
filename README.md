@@ -45,12 +45,16 @@
     - Section2/22.py
 - [x] Destructuring variables
     - Section2/23.py
-- [ ] Functions in Python
-- [ ] Functions arguments and parameters
-- [ ] Default parameter values
-- [ ] Functions returning values
-- [ ] Coding Exercise 4: Functions
-- [ ] Solution to coding exercise: Functions
+- [x] Functions in Python
+    - Section2/24.py
+- [x] Functions arguments and parameters
+    - Section2/25.py
+- [x] Default parameter values
+    - Section2/26.py
+- [x] Functions returning values
+    - Section2/27.py
+- [x] Coding Exercise 4: Functions
+- [x] Solution to coding exercise: Functions
 - [ ] Lambda functions in Pythons
 - [ ] Dictionary comprehensions
 - [ ] Coding Exercise 5: Dictionaries and students
