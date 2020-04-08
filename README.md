@@ -55,12 +55,16 @@
     - Section2/27.py
 - [x] Coding Exercise 4: Functions
 - [x] Solution to coding exercise: Functions
-- [ ] Lambda functions in Pythons
-- [ ] Dictionary comprehensions
-- [ ] Coding Exercise 5: Dictionaries and students
-- [ ] Solution to coding exercise: Dictionaries
-- [ ] Unpacking arguments
-- [ ] Object-Oriented Programming in Python
+- [x] Lambda functions in Pythons
+    - Section2/29.py
+- [x] Dictionary comprehensions
+    - Section2/30.py
+- [x] Coding Exercise 5: Dictionaries and students
+- [x] Solution to coding exercise: Dictionaries
+- [x] Unpacking arguments
+    - Section2/33.py
+- [x] Object-Oriented Programming in Python
+    - Section2/34.py
 - [ ] Magic methods: __str__ and __repr__
 - [ ] Coding Exercise 6: Classes and objects
 - [ ] Solutions to coding exercise: Classes and objects
