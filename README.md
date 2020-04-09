@@ -65,12 +65,16 @@
     - Section2/33.py
 - [x] Object-Oriented Programming in Python
     - Section2/34.py
-- [ ] Magic methods: __str__ and __repr__
-- [ ] Coding Exercise 6: Classes and objects
-- [ ] Solutions to coding exercise: Classes and objects
-- [ ] @classmethod and @staticmethod
-- [ ] Coding Exercise 7: @classmethod and @staticmethod
-- [ ] Solution to coding exercise: @classmethod and @staticmethod
+- [x] Magic methods: __str__ and __repr__
+    - Section2/35.py
+- [x] Coding Exercise 6: Classes and objects
+    - Section2/36.py
+- [x] Solutions to coding exercise: Classes and objects
+- [x] @classmethod and @staticmethod
+    - Section2/37.py
+- [x] Coding Exercise 7: @classmethod and @staticmethod
+    - Section2/38.py
+- [x] Solution to coding exercise: @classmethod and @staticmethod
 - [ ] Class inheritance
 - [ ] Class composition
 - [ ] Type hinting in Python 3.5+
