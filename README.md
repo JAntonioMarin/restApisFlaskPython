@@ -75,10 +75,15 @@
 - [x] Coding Exercise 7: @classmethod and @staticmethod
     - Section2/38.py
 - [x] Solution to coding exercise: @classmethod and @staticmethod
-- [ ] Class inheritance
-- [ ] Class composition
-- [ ] Type hinting in Python 3.5+
-- [ ] Imports in Python
+- [x] Class inheritance
+    - Section2/39.py
+- [x] Class composition
+    - Section2/40.py
+- [x] Type hinting in Python 3.5+
+    - Section2/41.py
+- [x] Imports in Python
+    - Section2/42.py
+    - Section2/module42.py
 - [ ] Relative imports in Python
 - [ ] Errors in Python
 - [ ] Custom error classes
