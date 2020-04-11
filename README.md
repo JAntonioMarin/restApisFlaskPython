@@ -84,10 +84,14 @@
 - [x] Imports in Python
     - Section2/42.py
     - Section2/module42.py
-- [ ] Relative imports in Python
-- [ ] Errors in Python
-- [ ] Custom error classes
-- [ ] First-class functions
+- [x] Relative imports in Python
+    - Section2/43.py
+- [x] Errors in Python
+    - Section2/44.py
+- [x] Custom error classes
+    - Section2/45.py
+- [x] First-class functions
+    - Section2/46.py
 - [ ] Simple decorators in Python
 - [ ] The 'at' syntax for decorators
 - [ ] Decorating functions with parameters
