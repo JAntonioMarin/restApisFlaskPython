@@ -108,4 +108,18 @@
 
 ### Section 3: Your first REST API
 
+- [ ] Introduction to this section
+- [ ] What is an API?
+- [ ] Installing Flask
+- [ ] Access the code for this section here
+- [ ] Your first Flask application
+- [ ] HTTP Verbs
+- [ ] REST Principles
+- [ ] Creating out application endpoints
+- [ ] Returning a list of stores
+- [ ] Implementing other endpoints
+- [ ] Calling the API from javascript
+- [ ] Using Postman for API testing
+- [ ] Conclusion of this section
+
 Continue...
