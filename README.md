@@ -92,13 +92,19 @@
     - Section2/45.py
 - [x] First-class functions
     - Section2/46.py
-- [ ] Simple decorators in Python
-- [ ] The 'at' syntax for decorators
-- [ ] Decorating functions with parameters
-- [ ] Decorators with parameters
-- [ ] Mutability in Python
-- [ ] Mutable default parameters (and why they're a bad idea)
-- [ ] Conslusion of this section
+- [x] Simple decorators in Python
+    - Section2/47.py
+- [x] The 'at' syntax for decorators
+    - Section2/48.py
+- [x] Decorating functions with parameters
+    - Section2/49.py
+- [x] Decorators with parameters
+    - Section2/50.py
+- [x] Mutability in Python
+    - Section2/51.py
+- [x] Mutable default parameters (and why they're a bad idea)
+    - Section2/52.py
+- [x] Conclusion of this section
 
 ### Section 3: Your first REST API
 
