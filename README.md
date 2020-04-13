@@ -108,14 +108,17 @@
 
 ### Section 3: Your first REST API
 
-- [ ] Introduction to this section
-- [ ] What is an API?
-- [ ] Installing Flask
-- [ ] Access the code for this section here
-- [ ] Your first Flask application
-- [ ] HTTP Verbs
-- [ ] REST Principles
-- [ ] Creating out application endpoints
+- [x] Introduction to this section
+- [x] What is an API?
+- [x] Installing Flask
+    - Section3/56.py
+- [x] Access the code for this section here
+- [x] Your first Flask application
+    - Section3/app.py
+- [x] HTTP Verbs
+- [x] REST Principles
+- [x] Creating out application endpoints
+    - Section3/app61.py
 - [ ] Returning a list of stores
 - [ ] Implementing other endpoints
 - [ ] Calling the API from javascript
