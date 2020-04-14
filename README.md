@@ -119,8 +119,10 @@
 - [x] REST Principles
 - [x] Creating out application endpoints
     - Section3/app61.py
-- [ ] Returning a list of stores
-- [ ] Implementing other endpoints
+- [x] Returning a list of stores
+    - Section3/app62.py
+- [x] Implementing other endpoints
+    - Section3/app63.py
 - [ ] Calling the API from javascript
 - [ ] Using Postman for API testing
 - [ ] Conclusion of this section
