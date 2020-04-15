@@ -123,8 +123,13 @@
     - Section3/app62.py
 - [x] Implementing other endpoints
     - Section3/app63.py
-- [ ] Calling the API from javascript
-- [ ] Using Postman for API testing
-- [ ] Conclusion of this section
+- [x] Calling the API from javascript
+    - Section3/app64.py
+    - Section3/templates/index.html
+- [x] Using Postman for API testing
+    - Section3/65-1.png
+    - Section3/65-2.png
+    - Section3/65-3.png
+- [x] Conclusion of this section
 
 Continue...
