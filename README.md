@@ -132,4 +132,22 @@
     - Section3/65-3.png
 - [x] Conclusion of this section
 
+### Section 4: Flask-RESTful for more efficient development
+
+- [ ] Welcome to this section
+- [ ] Virtualenvs and setting up Flask-RESTful
+- [ ] Access the code for this section here
+- [ ] Your first Flask-RESTful app
+- [ ]  Test-first API design what is that?
+- [ ] Creating our item Resource
+- [ ] The itemList and creating items
+- [ ] Improving code and error control
+- [ ] Authentication and logging in part1
+- [ ] Authentication and logging in part2
+- [ ] DELETE to delete items
+- [ ] PUT to create or update items
+- [ ] Advanced request parsing with Flask-RESTful
+- [ ] Optimising our final code and request parsing
+- [ ] Conclusion of this section
+
 Continue...
