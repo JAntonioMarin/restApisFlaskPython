@@ -134,11 +134,13 @@
 
 ### Section 4: Flask-RESTful for more efficient development
 
-- [ ] Welcome to this section
-- [ ] Virtualenvs and setting up Flask-RESTful
-- [ ] Access the code for this section here
-- [ ] Your first Flask-RESTful app
-- [ ]  Test-first API design what is that?
+- [x] Welcome to this section
+- [x] Virtualenvs and setting up Flask-RESTful
+    - Section4/68.py
+- [x] Access the code for this section here
+- [x] Your first Flask-RESTful app
+    - Section4/70.py
+- [ ] Test-first API design what is that?
 - [ ] Creating our item Resource
 - [ ] The itemList and creating items
 - [ ] Improving code and error control
