@@ -140,6 +140,7 @@
 - [x] Access the code for this section here
 - [x] Your first Flask-RESTful app
     - Section4/70.py
+- [x] Install new ubuntu in Virtualbox W10
 - [ ] Test-first API design what is that?
 - [ ] Creating our item Resource
 - [ ] The itemList and creating items
