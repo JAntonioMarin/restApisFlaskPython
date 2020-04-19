@@ -156,4 +156,22 @@
 - [ ] Optimising our final code and request parsing
 - [ ] Conclusion of this section
 
+### Section 5: Storing resources in a SQL database
+
+- [ ] Welcome to this section
+- [ ] Setting up out project
+- [ ] Access the code for this section here
+- [ ] Running a SQLite database and interacting with if from Python
+- [ ] Logging in and retrieving Users from a database
+- [ ] Signing up and writing Users to a database
+- [ ] Preventing duplicate usernames when signing users up
+- [ ] Retreiving our Item resources from a database
+- [ ] Writing our Item resources to a database
+- [ ] Deleting our Item resources from a database
+- [ ] Refactoring insertion of items
+- [ ] The PUT method with a database interaction
+- [ ] Retrieving many items from the database
+- [ ] Advanced Flask-JWT Configurations
+- [ ] Conclusion of this section
+
 Continue...
