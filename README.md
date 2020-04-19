@@ -141,10 +141,13 @@
 - [x] Your first Flask-RESTful app
     - Section4/70.py
 - [x] Install new ubuntu in Virtualbox W10
-- [ ] Test-first API design what is that?
-- [ ] Creating our item Resource
-- [ ] The itemList and creating items
-- [ ] Improving code and error control
+- [x] Test-first API design what is that?
+- [x] Creating our item Resource
+    - Section4/72.py
+- [x] The itemList and creating items
+    - Section4/73.py
+- [x] Improving code and error control
+    - Section4/74.py
 - [ ] Authentication and logging in part1
 - [ ] Authentication and logging in part2
 - [ ] DELETE to delete items
