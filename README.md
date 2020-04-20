@@ -148,8 +148,12 @@
     - Section4/73.py
 - [x] Improving code and error control
     - Section4/74.py
-- [ ] Authentication and logging in part1
-- [ ] Authentication and logging in part2
+- [x] Authentication and logging in part1
+    - Section4/75.py
+    - Section4/security.py
+    - Section4/user.py
+- [x] Authentication and logging in part2
+    - Section4/76.py
 - [ ] DELETE to delete items
 - [ ] PUT to create or update items
 - [ ] Advanced request parsing with Flask-RESTful
