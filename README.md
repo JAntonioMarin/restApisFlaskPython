@@ -152,13 +152,19 @@
     - Section4/75.py
     - Section4/security.py
     - Section4/user.py
+    - Section4/getToken.png
 - [x] Authentication and logging in part2
     - Section4/76.py
-- [ ] DELETE to delete items
-- [ ] PUT to create or update items
-- [ ] Advanced request parsing with Flask-RESTful
-- [ ] Optimising our final code and request parsing
-- [ ] Conclusion of this section
+    - Section4/tokenForJWTPostman.png
+- [x] DELETE to delete items
+    - Section4/77.py
+- [x] PUT to create or update items
+    - Section4/78.py
+- [x] Advanced request parsing with Flask-RESTful
+    - Section4/79.py
+- [x] Optimising our final code and request parsing
+    - Section4/80.py
+- [x] Conclusion of this section
 
 ### Section 5: Storing resources in a SQL database
 
