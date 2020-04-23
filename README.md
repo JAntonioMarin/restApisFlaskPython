@@ -168,14 +168,22 @@
 
 ### Section 5: Storing resources in a SQL database
 
-- [ ] Welcome to this section
-- [ ] Setting up out project
-- [ ] Access the code for this section here
-- [ ] Running a SQLite database and interacting with if from Python
-- [ ] Logging in and retrieving Users from a database
+- [x] Welcome to this section
+- [x] Setting up out project
+    - Section5/83.py
+- [x] Access the code for this section here
+    - Section5/app.py
+    - Section5/create_table.py
+    - Section5/item.py
+    - Section5/security.py
+    - Section5/user.py
+- [x] Running a SQLite database and interacting with if from Python
+    - Section5/85.py
+- [x] Logging in and retrieving Users from a database
+    - Section5/86.py
 - [ ] Signing up and writing Users to a database
 - [ ] Preventing duplicate usernames when signing users up
-- [ ] Retreiving our Item resources from a database
+- [ ] Retrieving our Item resources from a database
 - [ ] Writing our Item resources to a database
 - [ ] Deleting our Item resources from a database
 - [ ] Refactoring insertion of items
