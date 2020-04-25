@@ -181,10 +181,14 @@
     - Section5/85.py
 - [x] Logging in and retrieving Users from a database
     - Section5/86.py
-- [ ] Signing up and writing Users to a database
-- [ ] Preventing duplicate usernames when signing users up
-- [ ] Retrieving our Item resources from a database
-- [ ] Writing our Item resources to a database
+- [x] Signing up and writing Users to a database
+    - Section5/87.py
+- [x] Preventing duplicate usernames when signing users up
+    - Section5/88.py
+- [x] Retrieving our Item resources from a database
+    - Section5/89.py
+- [x] Writing our Item resources to a database
+    - Section5/90.py
 - [ ] Deleting our Item resources from a database
 - [ ] Refactoring insertion of items
 - [ ] The PUT method with a database interaction
