@@ -189,11 +189,16 @@
     - Section5/89.py
 - [x] Writing our Item resources to a database
     - Section5/90.py
-- [ ] Deleting our Item resources from a database
-- [ ] Refactoring insertion of items
-- [ ] The PUT method with a database interaction
-- [ ] Retrieving many items from the database
-- [ ] Advanced Flask-JWT Configurations
-- [ ] Conclusion of this section
+- [x] Deleting our Item resources from a database
+    - Section5/91.py
+- [x] Refactoring insertion of items
+    - Section5/92.py
+- [x] The PUT method with a database interaction
+    - Section5/93.py
+- [x] Retrieving many items from the database
+    - Section5/94.py
+- [x] Advanced Flask-JWT Configurations
+- [x] Conclusion of this section
+
 
 Continue...
