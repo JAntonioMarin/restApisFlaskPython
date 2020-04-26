@@ -200,5 +200,25 @@
 - [x] Advanced Flask-JWT Configurations
 - [x] Conclusion of this section
 
+### Section 6: Simplifying storage with Flask-SQLAlchemy
+
+- [ ] Welcome to this section!
+- [ ] Access the code for this section here
+- [ ] Setting up this section's project
+- [ ] Improving the project structure and maintainability
+- [ ] Creating User and Item models
+- [ ] Verifying the app works after out changes
+- [ ] Advanced Postman: environments and tests
+- [ ] Errata: small mistake in code in the next video
+- [ ] Telling SQLAlchemy about our tables and columns
+- [ ] Implementing the ItemModel using SQLAlchemy Part1
+- [ ] Implementing the ItemModel using SQLAlchemy Part2
+- [ ] Easily displaying the ItemList resource with SQLAlchemy
+- [ ] No more creating tables manually--telling SQLAlchemy to create tables
+- [ ] Creating a new model: StoreModel
+- [ ] Creating the Store Resource
+- [ ] Final testing of this section's API
+- [ ] Conclusion of this section
+- [ ] Conclusion of this section
 
 Continue...
