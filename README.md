@@ -202,10 +202,24 @@
 
 ### Section 6: Simplifying storage with Flask-SQLAlchemy
 
-- [ ] Welcome to this section!
-- [ ] Access the code for this section here
-- [ ] Setting up this section's project
-- [ ] Improving the project structure and maintainability
+- [x] Welcome to this section!
+- [x] Access the code for this section here
+- [x] Setting up this section's project
+    - Section6/99.py
+    - Section6/preSectioncode/app.py
+    - Section6/preSectioncode/create_table.py
+    - Section6/preSectioncode/item.py
+    - Section6/preSectioncode/security.py
+    - Section6/preSectioncode/user.py
+- [x] Improving the project structure and maintainability
+    - rename Section6/{preSectioncode => }/app.py
+    - rename Section6/{preSectioncode => }/create_table.py
+    - Section6/models/__init__.py
+    - Section6/resources/__init__.py
+    - rename Section6/{preSectioncode => resources}/item.py
+    - rename Section6/{preSectioncode => resources}/user.py
+    - rename Section6/{preSectioncode => }/security.py
+
 - [ ] Creating User and Item models
 - [ ] Verifying the app works after out changes
 - [ ] Advanced Postman: environments and tests
