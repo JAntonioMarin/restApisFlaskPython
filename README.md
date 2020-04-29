@@ -219,8 +219,9 @@
     - rename Section6/{preSectioncode => resources}/item.py
     - rename Section6/{preSectioncode => resources}/user.py
     - rename Section6/{preSectioncode => }/security.py
-
-- [ ] Creating User and Item models
+- [x] Creating User and Item models
+    - Section6/models/item.py
+    - Section6/models/user.py
 - [ ] Verifying the app works after out changes
 - [ ] Advanced Postman: environments and tests
 - [ ] Errata: small mistake in code in the next video
