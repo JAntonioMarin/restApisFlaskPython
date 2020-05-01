@@ -222,10 +222,16 @@
 - [x] Creating User and Item models
     - Section6/models/item.py
     - Section6/models/user.py
-- [ ] Verifying the app works after out changes
-- [ ] Advanced Postman: environments and tests
-- [ ] Errata: small mistake in code in the next video
-- [ ] Telling SQLAlchemy about our tables and columns
+- [x] Verifying the app works after out changes
+    - Section6/verify102.png
+- [x] Advanced Postman: environments and tests
+    - Section6/103.py
+- [x] Errata: small mistake in code in the next video
+- [x] Telling SQLAlchemy about our tables and columns
+    - Section6/db.py
+    - Section6/app.py
+    - Section6/models/item.py
+    - Section6/models/user.py
 - [ ] Implementing the ItemModel using SQLAlchemy Part1
 - [ ] Implementing the ItemModel using SQLAlchemy Part2
 - [ ] Easily displaying the ItemList resource with SQLAlchemy
