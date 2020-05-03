@@ -232,10 +232,11 @@
     - Section6/app.py
     - Section6/models/item.py
     - Section6/models/user.py
-- [ ] Implementing the ItemModel using SQLAlchemy Part1
-- [ ] Implementing the ItemModel using SQLAlchemy Part2
-- [ ] Easily displaying the ItemList resource with SQLAlchemy
-- [ ] No more creating tables manually--telling SQLAlchemy to create tables
+- [x] Implementing the ItemModel using SQLAlchemy
+- [x] Implementing the UserModel using SQLAlchemy
+- [x] Easily displaying the ItemList resource with SQLAlchemy
+- [x] No more creating tables manually--telling SQLAlchemy to create tables
+    - remove: Section6/create_table.py
 - [ ] Creating a new model: StoreModel
 - [ ] Creating the Store Resource
 - [ ] Final testing of this section's API
