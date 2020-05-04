@@ -254,5 +254,19 @@
 - [ ] The README file
 - [ ] Conclusion of this section
 
+### Section 8: Deploying Flask apps to Heroku
+
+- [ ] Welcome to this section
+- [ ] Access the code for this section here
+- [ ] What is Heroku?
+- [ ] Getting our code into GitHub
+- [ ] Setting up Heroku for Flask
+- [ ] Adding the required files to the project
+- [ ] Logs in Heroku and troubleshooting errors
+- [ ] Testing the desployed API with Postman
+- [ ] Adding PostgreSQL to our Heroku app
+- [ ] Working with Git and automatic deploys
+- [ ] Conclusions of this section
+
 
 Continue...
