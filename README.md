@@ -243,4 +243,16 @@
 - [ ] Conclusion of this section
 - [ ] Conclusion of this section
 
+### Section 7: Git version control
+
+- [ ] Welcome to this section
+- [ ] Installing Git on Mac and Windows
+- [ ] What is a Git repository?
+- [ ] The Git workflow - part 1
+- [ ] The Git workflow - part 2, including GitHub
+- [ ] Using SSH Keys for security
+- [ ] The README file
+- [ ] Conclusion of this section
+
+
 Continue...
