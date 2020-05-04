@@ -237,11 +237,13 @@
 - [x] Easily displaying the ItemList resource with SQLAlchemy
 - [x] No more creating tables manually--telling SQLAlchemy to create tables
     - remove: Section6/create_table.py
-- [ ] Creating a new model: StoreModel
-- [ ] Creating the Store Resource
-- [ ] Final testing of this section's API
-- [ ] Conclusion of this section
-- [ ] Conclusion of this section
+- [x] Creating a new model: StoreModel
+    - Section6/models/store.py
+- [x] Creating the Store Resource
+    - Section6/resources/store.py
+- [x] Final testing of this section's API
+- [x] Conclusion of this section
+- [x] Conclusion of this section
 
 ### Section 7: Git version control
 
