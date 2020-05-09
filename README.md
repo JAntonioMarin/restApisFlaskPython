@@ -247,14 +247,15 @@
 
 ### Section 7: Git version control
 
-- [ ] Welcome to this section
-- [ ] Installing Git on Mac and Windows
-- [ ] What is a Git repository?
-- [ ] The Git workflow - part 1
-- [ ] The Git workflow - part 2, including GitHub
-- [ ] Using SSH Keys for security
-- [ ] The README file
-- [ ] Conclusion of this section
+- [x] Welcome to this section
+- [x] Installing Git on Mac and Windows
+    -Section7/git_version_control.md
+- [x] What is a Git repository?
+- [x] The Git workflow - part 1
+- [x] The Git workflow - part 2, including GitHub
+- [x] Using SSH Keys for security
+- [x] The README file
+- [x] Conclusion of this section
 
 ### Section 8: Deploying Flask apps to Heroku
 
