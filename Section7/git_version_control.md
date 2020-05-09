@@ -32,4 +32,8 @@
     - `git remote add origin git@github.com:youname/repository.git`
 
 
+### The README file
+
+- Description of project
+
 
