@@ -269,11 +269,11 @@
     - Section8/Procfile
     - Section8/runtime.txt
     - Section8/uwsgi.ini
-- [ ] Logs in Heroku and troubleshooting errors
-- [ ] Testing the desployed API with Postman
-- [ ] Adding PostgreSQL to our Heroku app
-- [ ] Working with Git and automatic deploys
-- [ ] Conclusions of this section
+- [x] Logs in Heroku and troubleshooting errors
+    - Section8/run.py
+- [x] Testing the desployed API with Postman
+- [x] Adding PostgreSQL to our Heroku app
+- [x] Working with Git and automatic deploys
 
 ### Section 9: Deploying Flask apps to our own server
 
