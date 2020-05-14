@@ -285,5 +285,20 @@
 - [ ] Setting up uWSGI to run our REST API
 - [ ] Testing our API to make sure everything works 
 
+### Section 10: Security in your REST APIs
+- [ ] Welcome to this section
+- [ ] Security in REST APIs e-book
+- [ ] Getting our domain name
+- [ ] Setting up Cloudflare
+- [ ] What is DNS
+- [ ] Setting our DNS records
+- [ ] Verifying everything works - this is important!
+- [ ] Creating out SSL certificate in Cloudflare
+- [ ] Configuring nginx for SSL
+- [ ] Quiz 1: Secutiry in REST Apis
+- [ ] Extra technical SSL resources
+- [ ] Conclusion of this section
+
+
 
 Continue...
