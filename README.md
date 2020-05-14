@@ -277,12 +277,13 @@
 
 ### Section 9: Deploying Flask apps to our own server
 
-- [ ] Setting up a DigitalOcean server
-- [ ] Want to deploy to AWS?
-- [ ] Installing PostgreSQL in Ubuntu 16.04
+- [x] Setting up a DigitalOcean server
+- [x] Want to deploy to AWS?
+- [x] Installing PostgreSQL in Ubuntu 16.04
 - [ ] Creating a UNIX user in Ubuntu 16.04
 - [ ] Setting up nginx and our REST API
 - [ ] Setting up uWSGI to run our REST API
 - [ ] Testing our API to make sure everything works 
+
 
 Continue...
