@@ -280,7 +280,11 @@
 - [x] Setting up a DigitalOcean server
 - [x] Want to deploy to AWS?
 - [x] Installing PostgreSQL in Ubuntu 16.04
-- [ ] Creating a UNIX user in Ubuntu 16.04
+    - Section9/122.md
+- [x] Creating a UNIX user in Ubuntu 16.04
+    - Section9/123.md
+- [x] Setting up our new user with PostgreSQL permissions
+    - Section9/124.md
 - [ ] Setting up nginx and our REST API
 - [ ] Setting up uWSGI to run our REST API
 - [ ] Testing our API to make sure everything works 
