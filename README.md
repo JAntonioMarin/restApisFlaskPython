@@ -285,7 +285,8 @@
     - Section9/123.md
 - [x] Setting up our new user with PostgreSQL permissions
     - Section9/124.md
-- [ ] Setting up nginx and our REST API
+- [x] Setting up nginx and our REST API
+    - Section9/125.md
 - [ ] Setting up uWSGI to run our REST API
 - [ ] Testing our API to make sure everything works 
 
