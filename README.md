@@ -287,8 +287,12 @@
     - Section9/124.md
 - [x] Setting up nginx and our REST API
     - Section9/125.md
-- [ ] Setting up uWSGI to run our REST API
-- [ ] Testing our API to make sure everything works 
+- [x] Setting up uWSGI to run our REST API
+    - Section9/126.md
+- [x] Testing our API to make sure everything works 
+    - Section9/127.md
+- [x] Extras: My configuration server for API and Web in differents ports
+    - Section9/Extra.md
 
 ### Section 10: Security in your REST APIs
 - [ ] Welcome to this section
