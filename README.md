@@ -308,6 +308,23 @@
 - [ ] Extra technical SSL resources
 - [ ] Conclusion of this section
 
+### Section 11: Token refreshing and Flask-JWT-Extended
 
+- [ ] Welcome to this section
+- [ ] A recap of the code + a few changes!
+- [ ] Creating a User Resource for testing
+- [ ] Testing our new Resource with Postman
+- [ ] Logging in with Flask-JWT-Extended
+- [ ] Testing the login with Postman
+- [ ] Adding JWT Claims
+- [ ] Getting the JWT indentity in and endpoint and @jwt_optional
+- [ ] What is a fresh token
+- [ ] Performing token refresh in our REST API
+- [ ] Requiring a fresh token in an endpoint
+- [ ] Customizing Flask-JWT-Extended callbacks and responses
+- [ ] Blacklisting with Flask-JWT-Extended
+- [ ] Logging users out in our REST API
+- [ ] E-book:complete review of the API so far
+- [ ] Flask-JWT-Extended further reading
 
 Continue...
