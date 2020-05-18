@@ -295,16 +295,16 @@
     - Section9/Extra.md
 
 ### Section 10: Security in your REST APIs
-- [ ] Welcome to this section
-- [ ] Security in REST APIs e-book
-- [ ] Getting our domain name
-- [ ] Setting up Cloudflare
-- [ ] What is DNS
-- [ ] Setting our DNS records
-- [ ] Verifying everything works - this is important!
-- [ ] Creating out SSL certificate in Cloudflare
+- [x] Welcome to this section
+- [x] Security in REST APIs e-book
+- [x] Getting our domain name
+- [x] Setting up Cloudflare
+- [x] What is DNS
+- [x] Setting our DNS records
+- [x] Verifying everything works - this is important!
+- [x] Creating out SSL certificate in Cloudflare (I will create by letsencrypt)
 - [ ] Configuring nginx for SSL
-- [ ] Quiz 1: Secutiry in REST Apis
+- [ ] Quiz 1: Security in REST Apis
 - [ ] Extra technical SSL resources
 - [ ] Conclusion of this section
 
