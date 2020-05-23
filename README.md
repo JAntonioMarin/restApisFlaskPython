@@ -303,10 +303,10 @@
 - [x] Setting our DNS records
 - [x] Verifying everything works - this is important!
 - [x] Creating out SSL certificate in Cloudflare (I will create by letsencrypt)
-- [ ] Configuring nginx for SSL
-- [ ] Quiz 1: Security in REST Apis
-- [ ] Extra technical SSL resources
-- [ ] Conclusion of this section
+- [x] Configuring nginx for SSL
+- [x] Quiz 1: Security in REST Apis
+- [x] Extra technical SSL resources
+- [x] Conclusion of this section
 
 ### Section 11: Token refreshing and Flask-JWT-Extended
 
