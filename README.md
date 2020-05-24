@@ -310,10 +310,12 @@
 
 ### Section 11: Token refreshing and Flask-JWT-Extended
 
-- [ ] Welcome to this section
-- [ ] A recap of the code + a few changes!
-- [ ] Creating a User Resource for testing
-- [ ] Testing our new Resource with Postman
+- [x] Welcome to this section
+- [x] A recap of the code + a few changes!
+    - Section11/*
+- [x] Creating a User Resource for testing
+- [x] Testing our new Resource with Postman
+    - Section11/142.md
 - [ ] Logging in with Flask-JWT-Extended
 - [ ] Testing the login with Postman
 - [ ] Adding JWT Claims
