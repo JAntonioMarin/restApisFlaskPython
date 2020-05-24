@@ -316,10 +316,10 @@
 - [x] Creating a User Resource for testing
 - [x] Testing our new Resource with Postman
     - Section11/142.md
-- [ ] Logging in with Flask-JWT-Extended
-- [ ] Testing the login with Postman
-- [ ] Adding JWT Claims
-- [ ] Getting the JWT indentity in and endpoint and @jwt_optional
+- [x] Logging in with Flask-JWT-Extended
+- [x] Testing the login with Postman
+- [x] Adding JWT Claims
+- [x] Getting the JWT identity in and endpoint and @jwt_optional
 - [ ] What is a fresh token
 - [ ] Performing token refresh in our REST API
 - [ ] Requiring a fresh token in an endpoint
