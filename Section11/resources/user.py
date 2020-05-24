@@ -52,7 +52,7 @@ class User(Resource):
 class UserLogin(Resource):
 
     def post(cls):
-        data = _user_parser.parse_args
+        data = _user_parser.parse_args()
 
         user = UserModel.find_by_username((data['username']))
 
