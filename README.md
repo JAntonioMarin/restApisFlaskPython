@@ -329,4 +329,6 @@
 - [ ] E-book:complete review of the API so far
 - [ ] Flask-JWT-Extended further reading
 
-Continue...
+### Section 12: Bonus Section
+
+- [ ] Bonus lecture: other courses and next steps
