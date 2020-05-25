@@ -320,15 +320,17 @@
 - [x] Testing the login with Postman
 - [x] Adding JWT Claims
 - [x] Getting the JWT identity in and endpoint and @jwt_optional
-- [ ] What is a fresh token
-- [ ] Performing token refresh in our REST API
-- [ ] Requiring a fresh token in an endpoint
-- [ ] Customizing Flask-JWT-Extended callbacks and responses
+- [x] What is a fresh token
+- [x] Performing token refresh in our REST API
+- [x] Requiring a fresh token in an endpoint
+- [x] Customizing Flask-JWT-Extended callbacks and responses
 - [ ] Blacklisting with Flask-JWT-Extended
-- [ ] Logging users out in our REST API
-- [ ] E-book:complete review of the API so far
-- [ ] Flask-JWT-Extended further reading
+    - Section11/blacklist.py
+- [x] Logging users out in our REST API
+- [x] E-book:complete review of the API so far
+    - https://arac.tecladocode.com
+- [x] Flask-JWT-Extended further reading
 
 ### Section 12: Bonus Section
 
-- [ ] Bonus lecture: other courses and next steps
+- [x] Bonus lecture: other courses and next steps
